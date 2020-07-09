@@ -1,6 +1,6 @@
 # Anomalously Low Metallicity & HⅠ gas
 
-Because Github can not open and view large file, you can [click here](https://nbviewer.jupyter.org/github/Arm-lalala/Metallicity-deviation/tree/lalala/) to view jupyter notebook online (*or clone to your local device*):    
+Because Github can not open and view large file, you can [click here](https://nbviewer.jupyter.org/github/Arm-lalala/Metallicity-deviation/tree/master/) to view jupyter notebook online (*or clone to your local device*):    
 
 [NBviewer official website](https://nbviewer.jupyter.org/) 
 
